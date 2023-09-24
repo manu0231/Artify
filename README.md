@@ -1,1 +1,5 @@
 ![1](https://github.com/manu0231/Artify/assets/53123585/1d79ca11-529d-4eb6-8565-ce2cc9a4911c)
+![2](https://github.com/manu0231/Artify/assets/53123585/b8ea9c76-6120-459b-b2d7-6e8bfe15b27d)
+![3](https://github.com/manu0231/Artify/assets/53123585/b558f110-112b-4c82-b30f-7f14dd0a8149)
+![4](https://github.com/manu0231/Artify/assets/53123585/7fee53d7-2262-463c-8dcf-9724aae0935f)
+![6](https://github.com/manu0231/Artify/assets/53123585/5c207fa3-86df-4c8c-9421-e428828f2eb2)
