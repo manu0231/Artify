@@ -48,8 +48,7 @@ Before you begin, ensure you have met the following requirements:
 4. Start the development server:
     npm start
 
-
-Usage
+## Usage
 
 Open your web browser and navigate to http://localhost:3000 (or the URL where your app is hosted if you are deploying it).
 
@@ -59,8 +58,7 @@ Start creating and exploring digital art!
 
 For more detailed usage instructions, refer to the Documentation.
 
-
-Contributing
+## Contributing
 We welcome contributions from the community. If you like to contribute to Artify, please follow these guidelines:
 
 1.Fork the repository on GitHub.
